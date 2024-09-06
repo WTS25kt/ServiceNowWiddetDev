@@ -1,9 +1,9 @@
 (function() {
     var input = {
-        u_action: 'test_action',
-        u_time: '2024-09-06 12:00:00',
-        u_user: 'test_user',
-        u_sequencesort: '1'
+        u_action: 'client_test_action',
+        u_time: '2025-01-01 12:00:00',
+        u_user: 'client_test_user',
+        u_sequencesort: '99'
     };
 
     gs.info('受信データは:' + JSON.stringify(input));
